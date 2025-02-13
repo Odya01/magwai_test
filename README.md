@@ -1,4 +1,4 @@
-# Magwai Test 
+# Magwai Test (PC/Mobile)
 
 Тестовое задание
 Frontend-разработчик

@@ -1,4 +1,4 @@
-# mst_test
+# Magwai Test 
 
 Тестовое задание
 Frontend-разработчик

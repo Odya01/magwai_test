@@ -31,3 +31,5 @@ https://www.figma.com/file/e3jyEQ8vWkGDP3BRa8jYWu/%D0%9C%D0%B0%D0%B3%D0%B2%D0%B0
 6) Предоставить ссылку (собственный хостинг/ github.io/т.п.) на скомпилированную из исходников верстку для просмотра результата в браузере.
 
 https://docs.google.com/document/d/10LQqi4Sqkj7ZSG7Pyvtg5dsIk2txwwrSQTSDMLQHCV0/edit?tab=t.0
+
+# Подгрузку карточек не сделал
